@@ -1,4 +1,4 @@
-# 🚀 AI Resume Analyzer BNP
+# 🚀 ResumeLens-AI BNP
 
 An AI-powered Resume Analyzer that helps job seekers evaluate their resumes against a Job Description (JD). The application uses **Natural Language Processing (NLP)** techniques to calculate ATS scores, analyze skill gaps, compare resumes with job requirements, and provide personalized improvement suggestions.
 
